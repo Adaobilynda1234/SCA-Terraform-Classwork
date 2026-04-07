@@ -124,6 +124,10 @@ This means:
 
 ---
 
+## Conclusion
+
+This project demonstrates how Infrastructure as Code (IaC) using Terraform simplifies cloud resource management. It enables automation, consistency, and scalability when working with AWS services.
+
 ## Author
 
 Adaobi okwuosa
